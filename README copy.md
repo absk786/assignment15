@@ -85,8 +85,6 @@ This `manifest.json` file for this project will contain the following properties
 ### Deployment to Heroku Using MongoDB Atlas
 
 Finally, the budget tracker has a server and uses MongoDB as its database, so you’ll need to deploy this application to Heroku using MongoDB Atlas. To review this process, look at Module 18: NoSQL, Lesson 5: Add Mongoose Validation, specifically 18.5.5: Deploy to Heroku.
-
-
 ## Review
 
 You are required to submit BOTH of the following for review:
